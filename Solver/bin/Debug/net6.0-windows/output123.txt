@@ -1,0 +1,31 @@
+1 Who Me True You False Us True Them False
+1 Who
+Me
+You
+Us
+Them
+True
+False
+True
+False
+
+2 Why
+Am
+I
+Doing
+This
+True
+False
+False
+True
+
+3 What
+Am
+I
+Even
+
+False
+False
+True
+True
+

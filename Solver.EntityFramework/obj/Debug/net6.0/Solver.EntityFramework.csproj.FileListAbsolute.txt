@@ -1,0 +1,42 @@
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.AssemblyInfo.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.deps.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.runtimeconfig.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\refint\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.genruntimeconfig.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\ref\Solver.EntityFramework.dll
+D:\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.deps.json
+D:\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.runtimeconfig.json
+D:\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.dll
+D:\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.pdb
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.csproj.AssemblyReference.cache
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.AssemblyInfoInputs.cache
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.AssemblyInfo.cs
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.dll
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\refint\Solver.EntityFramework.dll
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.pdb
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.genruntimeconfig.cache
+D:\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\ref\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.deps.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.runtimeconfig.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\bin\Debug\net6.0\Solver.EntityFramework.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.AssemblyInfo.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\refint\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\Solver.EntityFramework.genruntimeconfig.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver.EntityFramework\obj\Debug\net6.0\ref\Solver.EntityFramework.dll

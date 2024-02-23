@@ -1,0 +1,340 @@
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.AssemblyReference.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.lref
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.exe
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.deps.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.runtimeconfig.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.g.resources
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfoInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfo.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CoreCompileInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\refint\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.genruntimeconfig.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\ref\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.EntityFramework.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CopyComplete
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.exe
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.deps.json
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.runtimeconfig.json
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.pdb
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.EntityFramework.dll
+D:\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.EntityFramework.pdb
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.AssemblyReference.cache
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\App.g.cs
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.cache
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.lref
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.baml
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.g.resources
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfoInputs.cache
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfo.cs
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CoreCompileInputs.cache
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CopyComplete
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.dll
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\refint\Solver.dll
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.pdb
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.genruntimeconfig.cache
+D:\Solver\Solver\Solver\obj\Debug\net6.0-windows\ref\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.exe
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.deps.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.runtimeconfig.json
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.AssemblyReference.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.lref
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.g.resources
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfoInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfo.cs
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CoreCompileInputs.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CopyComplete
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\refint\Solver.dll
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.pdb
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.genruntimeconfig.cache
+C:\Users\ottad\OneDrive\Рабочий стол\Solvers\Solver\Solver\Solver\obj\Debug\net6.0-windows\ref\Solver.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.exe
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.deps.json
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.runtimeconfig.json
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Solver.pdb
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.AssemblyReference.cache
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.cache
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver_MarkupCompile.lref
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.g.resources
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfoInputs.cache
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.AssemblyInfo.cs
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CoreCompileInputs.cache
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.csproj.CopyComplete
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\refint\Solver.dll
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.pdb
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\Solver.genruntimeconfig.cache
+C:\Users\grazi\Downloads\Solver\Solver\Solver\Solver\obj\Debug\net6.0-windows\ref\Solver.dll
